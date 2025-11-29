@@ -1,7 +1,7 @@
 ﻿{
-  "version": "1.0.0",
-  "notes": "小红书客户端初始版本\n- 基础功能完整\n- 支持自动更新",
-  "pub_date": "2025-11-29T06:30:00Z",
+  "version": "1.1.0",
+  "notes": "小红书客户端更新版本\\n- 基础功能完整\\n- 支持自动更新\\n- 修复已知问题",
+  "pub_date": "2025-11-29T07:48:00Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUN2tSeEs1ZUIvajlZTmNzRFNHYUo3U2p2YVJsY3I0NENtMDhHL2lKSzlkSGtLcUNkRks0SWJCd0k0cFFXWHFULzdPVjJxVXBJQnRaRDEzV29qQVR4TlRKdHZkWVhzbndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY0Mzk3Mjg0CWZpbGU6WGlhb2hvbmdzaHVDbGllbnRfMS4wLjBfeDY0LXNldHVwLm5zaXMuemlwCmVJMVNNcXAzNTlzc2t6V2JWUG9wak83Y0xtWXl0Y2w3Vi9VWVlpOEZncmVRS1FWSEhkSU9HODl0RExYMkJuY2pDanFlNU1QWnlrZjdocGhoR2h5aERnPT0K",
